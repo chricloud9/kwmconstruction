@@ -259,3 +259,7 @@ footer {
     /*opacity: .5;*/
     z-index: 0;
 }
+#phone-number{
+    font-size: 25px;
+    font-weight: bold;
+}
