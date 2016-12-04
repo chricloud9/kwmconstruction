@@ -5,7 +5,6 @@
  */
 
 /* Global Styles */
-
 html,
 body {
     width: 100%;
@@ -248,4 +247,15 @@ footer {
   position: fixed;
   bottom: 5px;
   right: 5px;
+}
+
+#tag-line{
+  color: #272E5B;
+  font-size: 28px;
+  z-index: 1;
+}
+#tag-box{
+    background-color: #FFFFFF;
+    /*opacity: .5;*/
+    z-index: 0;
 }
